@@ -1,0 +1,25 @@
+{
+  "name": "app",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build && node flush-root.mjs && npm run copy && npm run rplpath",
+    "preview": "astro preview",
+    "astro": "astro",
+    "move": "mv -i dist/* ../html/",
+    "copy": "cp -i -r dist/* ../html/",
+    "rplpath": "find ../html -name '*.html' -exec sed -i -e 's#/assets#assets#g' {} ;"
+  },
+  "dependencies": {
+    "@tailwindcss/vite": "^4.1.17",
+    "astro": "^5.15.5",
+    "tailwindcss": "^4.1.17",
+    "class-variance-authority": "^0.7.0",
+    "tailwind-merge": "^1.14.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "@tailwindcss/typography": "^0.5.16"
+  }
+}

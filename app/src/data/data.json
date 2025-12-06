@@ -1,0 +1,341 @@
+{
+  "menu": [
+    {
+      "name": "Home",
+      "url": "index.html"
+    },
+    {
+      "name": "Tentang MYCardia",
+      "url": "about.html"
+    },
+    {
+      "name": "Dokter MYCardia",
+      "url": "indeks-dokter.html"
+    },
+    {
+      "name": "Tindakan & Prosedur di MYCardia",
+      "url": "indeks-prosedur.html"
+    },
+    {
+      "name": "Informasi Kesehatan",
+      "url": "#",
+      "submenu": [
+        {
+          "name": "Artikel",
+          "url": "indeks-artikel.html"
+        },
+        {
+          "name": "Daftar Penyakit",
+          "url": "indeks-penyakit.html"
+        },
+        {
+          "name": "Video",
+          "url": "indeks-video.html"
+        }
+      ]
+    },
+    {
+      "name": "Paket Kesehatan",
+      "url": "paket-kesehatan.html"
+    },
+
+    {
+      "name": "Jurnal dan Kegiatan Medis",
+      "url": "#",
+      "submenu": [
+        {
+          "name": "Jurnal Ilmiah",
+          "url": "indeks-jurnal.html"
+        },
+        {
+          "name": "Dokumentasi Kegiatan",
+          "url": "indeks-kegiatan.html"
+        }
+      ]
+    },
+    {
+      "name": "Skrining Mandiri",
+      "url": "skrining.html"
+    },
+    {
+      "name": "Rencanakan Kunjungan ke MYCardia",
+      "url": "kunjungan.html"
+    },
+    {
+      "name": "Customer Feedback",
+      "url": "customer-feedback.html"
+    }
+  ],
+  "dokter": [
+    {
+      "nama": "Dr. dr. M. Yamin, Sp.JP (K), FACC, FSCAI",
+      "imgurl": "/assets/dummy/dr-dr--m--yaminimages-2020-05-26-094801.jpg",
+      "lokasi": "bsd",
+      "profil": "Konsultan Intervensi Jantung dan Aritmia",
+      "chairman": "true"
+    },
+    {
+      "nama": "dr. Ignatius Yansen Ng, Sp.JP (K), FIHA, FAsCC, FAPSC",
+      "imgurl": "/assets/dummy/1657917531-dr.-Ignatius-Yansen,-Sp.-JP.jpg",
+      "lokasi": "bsd",
+      "profil": "Konsultan Intervensi Jantung dan Aritmia"
+    },
+    {
+      "nama": "dr. Daniel Tanubudi, Sp.JP, FIHA",
+      "imgurl": "/assets/dummy/1657916199-dr.-Daniel-Tanubudi,-SpJP(K).jpg",
+      "lokasi": "bsd",
+      "profil": "Dokter Spesialis Jantung & Pembuluh Darah"
+    },
+
+    {
+      "nama": "dr. Stefanus Andy Wiyono, Sp.JP (K), FIHA",
+      "imgurl": "/assets/dummy/1657918340-dr.-Stefanus-Andy-Wiyono,-Sp.JP(K).,-FIHA.jpg",
+      "lokasi": "bsd",
+      "profil": "Konsultan Intervensi Jantung"
+    },
+    {
+      "nama": "dr. Simon Salim, Sp.PD-KKV, Mkes, AIFO, FINASIM, FACP, FICA",
+      "imgurl": "/assets/dummy/1657915677-dr-simon-salim,-SpPD-KKV.jpg",
+      "lokasi": "bsd",
+      "profil": "Konsultan Intervensi Jantung, Perifer dan Aritmia"
+    },
+    {
+      "nama": "dr. Celly Anantaria Atmadikoesoemah, Sp.JP(K), FIHA, FAsCC, MMedEd",
+      "imgurl": "/assets/dummy/1673321044-PROFIL-DR.-CELLY.png",
+      "lokasi": "bsd",
+      "profil": "Konsultan Kardiologi Nuklir dan Pencitraan Kardiovaskular"
+    },
+    {
+      "nama": "dr. Sugisman Sp. BTKV (K)",
+      "imgurl": "/assets/dummy/1658830063-sugisman.jpg",
+      "lokasi": "bsd",
+      "profil": "Konsultan Bedah Jantung Dewasa"
+    },
+    {
+      "nama": "dr. Akmal Alfaritsi Homonangan Sp. BTKV",
+      "imgurl": "/assets/dummy/1657915857-dr.-Akmal,-Sp.BTKV.jpg",
+      "lokasi": "bsd",
+      "profil": "Dokter Bedah Toraks Kardiovaskular"
+    },
+    {
+      "nama": "dr. Bayushi Eka Putra, Sp.JP, FIHA",
+      "imgurl": "/assets/dummy/1687504847-dr.-bayushi-SpJP.png",
+      "lokasi": "bsd",
+      "profil": "Dokter Spesialis Jantung & Pembuluh Darah"
+    },
+    {
+      "nama": "dr. Haryadi, Sp.JP (K), FIHA",
+      "imgurl": "/assets/dummy/1658076926-dr.-Haryadi,-Sp.JP-(K)-EP.png",
+      "lokasi": "pekanbaru",
+      "profil": "Konsultan Intervensi Jantung dan Aritmia"
+    },
+    {
+      "nama": "dr. Muhammad Hatta, Sp.JP (K) FIHA",
+      "imgurl": "/assets/dummy/1658074967-dr.-Muhammad-Hatta,-Sp.JP.png",
+      "lokasi": "pekanbaru",
+      "profil": "Konsultan Intervensi Jantung"
+    },
+
+    {
+      "nama": "dr. Sanny March Silaban, Sp.JP",
+      "imgurl": "/assets/dummy/1658075063-dr.-Sanny-March-Novalin-Silaban,-Sp.JP.png",
+      "lokasi": "pekanbaru",
+      "profil": "Dokter Spesialis Jantung dan Pembuluh Darah"
+    },
+    {
+      "nama": "dr. Brilliant BTKV",
+      "imgurl": "/assets/dummy/1658074608-dr.-Brilliant,-Sp.BTKV.png",
+      "lokasi": "pekanbaru",
+      "profil": "Spesialis Bedah Toraks Kardiovaskuler"
+    },
+    {
+      "nama": "dr. Daniel P. L. Tobing, Sp.JP (K) FIHA, FICA, FAPSC, FAPSIC, FESC, FSCAI ",
+      "imgurl": "/assets/dummy/1658718204-dr.-Daniel-Tobing,-Sp.-JP-(K),-FIHA,-FICA,-FAPSC,-FAPSIC,-FESC,-FSCAI.jpg",
+      "lokasi": "cibubur",
+      "profil": "Konsultan Intervensi Jantung dan Perawatan Intensif Jantung"
+    },
+    {
+      "nama": "dr. Taofan, Sp.JP (K), FIHA, FICA, FAsCC, FSCAI",
+      "imgurl": "/assets/dummy/1658807486-taofan-sp-jp.jpg",
+      "lokasi": "cibubur",
+      "profil": "Konsultan Intervensi Jantung dan Endovaskular"
+    },
+    {
+      "nama": "dr. Ignatius Yansen Ng, Sp.JP (K), FIHA, FAsCC, FAPSC",
+      "imgurl": "/assets/dummy/1657917531-dr.-Ignatius-Yansen,-Sp.-JP.jpg",
+      "lokasi": "cibubur",
+      "profil": "Konsultan Intervensi Jantung dan Aritmia"
+    },
+    {
+      "nama": "dr. Sandi Sinurat, Sp.JP",
+      "imgurl": "/assets/dummy/1690343125-dr.-Sandi-Sinurat,-SpJP.png",
+      "lokasi": "cibubur",
+      "profil": "Dokter Spesialis Jantung dan Pembuluh Darah"
+    },
+
+    {
+      "nama": "dr. Ika K. Dhanudibroto, Sp.JP (K)",
+      "imgurl": "/assets/dummy/1658473009-dr-Ika-sp.JP.jpg",
+      "lokasi": "bekasi",
+      "profil": "Konsultan Intervensi Jantung"
+    },
+    {
+      "nama": "dr. Dedy Lizal, Sp.JP",
+      "imgurl": "/assets/dummy/1658472890-dr.-dedy-lizal-sp.jp.jpg",
+      "lokasi": "bekasi",
+      "profil": "Dokter Spesialis Jantung dan Pembuluh Darah"
+    }
+  ],
+  "prosedur": [
+    {
+      "imgurl": "/assets/img/procedure_img/aritmia.webp",
+      "title": "Arrhythmia and Catheter Ablation Center",
+      "url": "detail-prosedur-aritmia.html"
+    },
+    {
+      "imgurl": "/assets/img/procedure_img/cardiac.webp",
+      "title": "Cardiac Implantable Electronic Device",
+      "url": "detail-prosedur-cardiac.html"
+    },
+    {
+      "imgurl": "/assets/dummy/prosedur3.png",
+      "title": "Percutaneous Coronary intervention",
+      "url": "detail-prosedur-intervention.html"
+    },
+    {
+      "imgurl": "/assets/img/procedure_img/structural.webp",
+      "title": "Structural Intervention",
+      "url": "detail-prosedur-aritmia.html"
+    },
+    {
+      "imgurl": "/assets/img/procedure_img/aso.webp",
+      "title": "Bedah Atrial Septal Occluder (ASO)",
+      "url": "detail-prosedur-aso.html"
+    },
+    {
+      "imgurl": "/assets/dummy/prosedur6.png",
+      "title": "Procedure Package",
+      "url": "detail-paket.html"
+    }
+  ],
+  "penyakit": [
+    {
+      "imgurl": "/assets/dummy/jantung-koroner.png",
+      "title": "Jantung Koroner"
+    },
+    {
+      "imgurl": "/assets/dummy/aritmia.avif",
+      "title": "Aritmia"
+    },
+    {
+      "imgurl": "/assets/dummy/jantung-bawaan.avif",
+      "title": "Penyakit Jantung Bawaan"
+    },
+    {
+      "imgurl": "/assets/dummy/henti-jantung.jpg",
+      "title": "Henti Jantung"
+    }
+  ],
+  "article": [
+    {
+      "title": "10 Penyebab Jantung Berdebar, Waspadai Penyakit Serius yang Kemungkinan Diderita",
+      "imgurl": "/assets/dummy/artikelimg1.jpg",
+      "datetime": "22 Juli 2023",
+      "url": "detail-artikel1.html"
+    },
+    {
+      "title": "Cara Meningkatkan Harapan Hidup setelah Pasang Ring Jantung",
+      "imgurl": "/assets/dummy/artikelimg2.jpg",
+      "datetime": "23 Juli 2023",
+      "url": "detail-artikel2.html"
+    },
+    {
+      "title": "Mengenal CPR, Pertolongan Pertama Serangan Jantung",
+      "imgurl": "/assets/dummy/artikelimg3.jpg",
+      "datetime": "4 Agustus 2023",
+      "url": "detail-artikel3.html"
+    },
+    {
+      "title": "Tanda Detak Jantung Normal dan Penyakit yang Menyebabkan Detaknya Terganggu",
+      "imgurl": "/assets/dummy/artikelimg4.jpg",
+      "datetime": "9 Agustus 2023",
+      "url": "detail-artikel4.html"
+    },
+    {
+      "title": "4 Gejala Jantung Bengkak dan Cara Mendiagnosisnya",
+      "imgurl": "/assets/dummy/artikelimg5.jpg",
+      "datetime": "9 September 2023",
+      "url": "detail-artikel5.html"
+    },
+    {
+      "title": "Penyebab Kaki Bengkak karena Jantung dan Cara Mengatasinya",
+      "imgurl": "/assets/dummy/artikelimg6.jpg",
+      "datetime": "14 September 2023",
+      "url": "detail-artikel6.html"
+    }
+  ],
+  "paket": [
+    {
+      "title": "Paket Melahirkan ",
+      "imgurl": "/assets/dummy/paket1.png",
+      "harga": "Rp 440.000"
+    },
+    {
+      "title": "Paket MCU Premarital ",
+      "imgurl": "/assets/dummy/paket2.png",
+      "harga": "Rp 340.000"
+    },
+    {
+      "title": "Operasi Batu Empedu dengan Keyhole Surgery ",
+      "imgurl": "/assets/dummy/paket3.png",
+      "harga": "Rp 400.000"
+    },
+    {
+      "title": "Paket Skrining Tulang Punggung ",
+      "imgurl": "/assets/dummy/paket4.png",
+      "harga": "Rp 440.000"
+    },
+    {
+      "title": "Paket Silver -  MCU + Cek Echo ",
+      "imgurl": "/assets/dummy/paket1.png",
+      "harga": "Rp 440.000"
+    }
+  ],
+  "kegiatan": [
+    {
+      "title": "Bakti sosial",
+      "imgurl": "/assets/dummy/kegiatan1.png",
+      "datetime": "6 Sep 2023"
+    },
+    {
+      "title": "Jalan Sehat",
+      "imgurl": "/assets/dummy/kegiatan2.png",
+      "datetime": "7 Sep 2023"
+    },
+    {
+      "title": "Penyuluhan Kesehatan",
+      "imgurl": "/assets/dummy/kegiatan3.png",
+      "datetime": "8 Sep 2023"
+    },
+    {
+      "title": "Kunjungan Kampus",
+      "imgurl": "/assets/dummy/kegiatan4.png",
+      "datetime": "8 Sep 2023"
+    },
+    {
+      "title": "Lari Pagi",
+      "imgurl": "/assets/dummy/kegiatan5.png",
+      "datetime": "8 Sep 2023"
+    },
+    {
+      "title": "Turnamen Futsal",
+      "imgurl": "/assets/dummy/kegiatan6.png",
+      "datetime": "8 Sep 2023"
+    },
+    {
+      "title": "Turnamen Futsal",
+      "imgurl": "/assets/dummy/kegiatan6.png",
+      "datetime": "8 Sep 2023"
+    }
+  ]
+}
